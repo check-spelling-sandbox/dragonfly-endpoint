@@ -35,7 +35,7 @@ If you find it existing, please add your details in comments
 under the existing issue instead of opening a brand new one.
 
 To make the issue details as standard as possible,
-we setup an [ISSUE TEMPLATE](./.github/ISSUE_TEMPLATE) for issue reporters.
+we set up an [ISSUE TEMPLATE](./.github/ISSUE_TEMPLATE) for issue reporters.
 You can find three kinds of issue templates there: question,
 bug report and feature request. Please **BE SURE** to follow
 the instructions to fill fields in template.
